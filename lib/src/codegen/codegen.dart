@@ -50,6 +50,9 @@ class CodeGenerator extends Generator {
                     '''import 'package:taurus_shared/taurus_shared.dart';''') !=
                 0 &&
             entry.compareTo(
+                    '''import 'package:taurus_shared/taurus_gen.dart';''') !=
+                0 &&
+            entry.compareTo(
                     '''import 'package:taurus_search/taurus_search.dart';''') !=
                 0 &&
             entry.compareTo('''import 'package:ng2_state/ng2_state.dart';''') !=
