@@ -5,7 +5,7 @@ description: "[Deprecated library] - please use other ORM libraries on pub"
 homepage: https://github.com/frankpepermans/dorm
 documentation: http://igindo.com/dart/dorm/index.html
 environment:
-  sdk: '>=1.21.0 <2.0.0'
+  sdk: '>=2.0.0-dev.62.0 <3.0.0'
 dev_dependencies:
   analyzer: ^0.32.0
   build: ^0.12.0
